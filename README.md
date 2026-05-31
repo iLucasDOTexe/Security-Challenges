@@ -1,13 +1,25 @@
-# CTFs and security challenges overview
-Hello world! This is just an overview about my security activities in my free time.
-##  tryhackme\.com
+# CTFs and Security Challenges
+
+Hello world! This is just a brief overview of my security-related activities in my free time.
+
+## tryhackme.com
+
 ### [Link to profile](https://tryhackme.com/p/iLucas.exe)
-- I am mostly active here
-- Ranked in the top 6% of all users
-## hackthebox\.com
+
+- This is where I am currently most active.
+- Ranked in the top 6% of all users.
+
+## hackthebox.com
+
 ### [Link to profile](https://profile.hackthebox.com/profile/019c46e5-a255-705b-9fd7-773d929b17cc)
-- I started with HTB recently, because of recommendations
-- Level 11 at HTB Labs
-## Others
-### vulnhub\.com
-### root-me\.org
+
+- I recently started using HTB after several recommendations from colleagues.
+- Level 11 on HTB Labs.
+
+## Other platforms
+
+In the past, I was also active on sites such as:
+
+### vulnhub.com
+
+### root-me.org
